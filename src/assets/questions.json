@@ -1,0 +1,143 @@
+{
+  "questions": [
+    {
+      "category": "Introduction to Accessibility",
+      "question": "What is the purpose of digital accessibility?",
+      "answer": "Digital accessibility aims to ensure that digital content and technologies are usable by all, including people with disabilities.",
+      "explanation": "It promotes inclusive design and eliminates barriers to information and communication."
+    },
+    {
+      "category": "Introduction to Accessibility",
+      "question": "Name one international standard related to digital accessibility.",
+      "answer": "WCAG (Web Content Accessibility Guidelines).",
+      "explanation": "WCAG provides a shared standard for web content accessibility."
+    },
+    {
+      "category": "Functional Performance",
+      "question": "How does screen reader software assist users with visual impairments?",
+      "answer": "Screen readers convert digital text into synthesized speech or refreshable Braille displays.",
+      "explanation": "This helps users with visual impairments access and navigate digital content."
+    },
+    {
+      "category": "Functional Performance",
+      "question": "Give an example of an assistive technology for users with motor disabilities.",
+      "answer": "Switch devices.",
+      "explanation": "Switch devices enable users to interact with digital content using simple switches."
+    },
+    {
+      "category": "Accessibility Testing",
+      "question": "What is the purpose of manual accessibility testing?",
+      "answer": "Manual testing helps identify issues that automated tools may miss, such as complex interactions and subjective assessments.",
+      "explanation": "It complements automated testing to ensure a more thorough evaluation."
+    },
+    {
+      "category": "Accessibility Testing",
+      "question": "Name a common automated accessibility testing tool.",
+      "answer": "Axe Accessibility.",
+      "explanation": "Axe is a widely used tool for automating the testing of web accessibility."
+    },
+    {
+      "category": "Accessibility in the Development Process",
+      "question": "Why is it important to consider accessibility during the design phase of a project?",
+      "answer": "Early consideration of accessibility ensures that inclusive design principles are integrated from the start, saving time and resources.",
+      "explanation": "It prevents the need for costly retrofits later in the development process."
+    },
+    {
+      "category": "Accessibility in the Development Process",
+      "question": "What is ARIA, and how is it used in web development?",
+      "answer": "ARIA (Accessible Rich Internet Applications) is a set of attributes that enhance the accessibility of web content, especially dynamic and interactive elements.",
+      "explanation": "It helps make complex web applications more accessible to people with disabilities."
+    },
+    {
+      "category": "Procurement and Management",
+      "question": "How can accessibility be integrated into the procurement process?",
+      "answer": "By including accessibility requirements in procurement documentation and evaluating vendors based on their commitment to accessibility.",
+      "explanation": "This ensures that products and services purchased are accessible."
+    },
+    {
+      "category": "Procurement and Management",
+      "question": "What role does management play in promoting accessibility in an organization?",
+      "answer": "Management is responsible for establishing and enforcing accessibility policies, allocating resources, and fostering a culture of inclusion.",
+      "explanation": "Leadership commitment is crucial for the success of accessibility initiatives."
+    },
+    {
+      "category": "Policy Development and Implementation",
+      "question": "Why is it important to have an accessibility policy in an organization?",
+      "answer": "An accessibility policy provides a framework for ensuring that all digital content and technologies are designed to be inclusive.",
+      "explanation": "It sets expectations and standards for accessibility across the organization."
+    },
+    {
+      "category": "Policy Development and Implementation",
+      "question": "Give an example of an accessibility-related policy that an organization might implement.",
+      "answer": "A policy requiring all public-facing websites to conform to WCAG 2.0 or higher.",
+      "explanation": "Such policies establish specific criteria for digital accessibility."
+    },
+    {
+      "category": "Accessibility and Usability",
+      "question": "How does accessibility contribute to improved usability?",
+      "answer": "Accessibility enhancements, such as clear navigation and consistent design, benefit all users, making digital content more user-friendly.",
+      "explanation": "Designing for accessibility often results in better overall user experiences."
+    },
+    {
+      "category": "Accessibility and Usability",
+      "question": "Name a principle of universal design and explain its relevance to accessibility.",
+      "answer": "Flexibility in use. It means that a design accommodates a wide range of individual preferences and abilities.",
+      "explanation": "This principle promotes inclusivity by allowing users to interact with content in ways that suit their needs."
+    },
+
+    {
+      "category": "Theoretical Models of Disability",
+      "question": "What are the recommended study tasks for Theoretical Models of Disability?",
+      "answer": "1. Identify prominent theoretical models of disability. 2. Describe their basic concepts and understand their strengths and weaknesses. 3. Identify which models align most closely with the principles of accessibility and universal design. 4. Apply the models to example scenarios in the lives of people with disabilities.",
+      "explanation": "These tasks help in understanding different theoretical models and their practical applications."
+    },
+    {
+      "category": "Theoretical Models of Disability",
+      "question": "What resources are recommended for studying Theoretical Models of Disability?",
+      "answer": "1. World Health Organization: Towards a Common Language for Functioning, Disability and Health: ICF. 2. NCBI, US National Library of Medicine: Rethinking Disability: the Social Model of Disability and Chronic Disease. 3. UK Ombudsman: Introduction to the Social and Medical Models of Disability. 4. University of Leicester: The Social and Medical Model of Disability.",
+      "explanation": "These resources provide valuable information for understanding different theoretical models of disability."
+    },
+    {
+      "category": "Medical Model",
+      "question": "How is disability viewed in the Medical Model?",
+      "answer": "The Medical Model views disability as a problem of the person, directly caused by disease, trauma, or other health conditions requiring sustained medical care for a cure or adjustment.",
+      "explanation": "This model focuses on the individual and aims for medical management or a cure for disabilities."
+    },
+    {
+      "category": "Social Model",
+      "question": "What does the Social Model of Disability emphasize?",
+      "answer": "The Social Model sees disability as a socially created problem, requiring full integration into society. It considers disability a complex collection of conditions created by the social environment.",
+      "explanation": "This model highlights the importance of societal changes for the full participation of people with disabilities."
+    },
+    {
+      "category": "Biopsychosocial Model",
+      "question": "What does the Biopsychosocial Model of Disability integrate?",
+      "answer": "The Biopsychosocial Model integrates elements of the medical and social models, providing a coherent view of different perspectives of health: biological, individual, and social.",
+      "explanation": "This model synthesizes aspects of both medical and social models to offer a comprehensive understanding of disability."
+    },
+    {
+      "category": "Economic Model",
+      "question": "How does the Economic Model define disability?",
+      "answer": "The Economic Model defines disability by a person’s inability to participate in work and assesses the economic consequences for the individual, employer, and the state.",
+      "explanation": "This model emphasizes the economic impact of disability, including loss of earnings and state welfare payments."
+    },
+    {
+      "category": "Functional Solutions Model",
+      "question": "What is the primary focus of the Functional Solutions Model?",
+      "answer": "The Functional Solutions Model focuses on identifying limitations due to disability and creating solutions to overcome those limitations through technological or methodological innovation.",
+      "explanation": "This model aims to provide practical solutions to challenges posed by disabilities."
+    },
+    {
+      "category": "Social Identity or Cultural Affiliation Model",
+      "question": "What does the Social Identity or Cultural Affiliation Model refer to?",
+      "answer": "The Social Identity or Cultural Affiliation Model refers to deriving one’s personal identity from membership within a group of like-minded individuals, often seen in communities with common life experiences and interests.",
+      "explanation": "This model emphasizes the sense of belonging and shared identity within a community of people with similar conditions."
+    },
+    {
+      "category": "Charity Model",
+      "question": "How does the Charity Model view people with disabilities?",
+      "answer": "The Charity Model regards people with disabilities as unfortunate and in need of assistance from the outside, with those providing charity viewed as benevolent contributors to a needy population.",
+      "explanation": "This model focuses on providing assistance but may be perceived as condescending and short-term oriented."
+    }
+  ]
+}
