@@ -1,0 +1,65 @@
+{
+    "Models" : [
+        {
+            "id": 1000,
+            "text": "Medical Model"
+        },
+        {
+            "id": 1001,
+            "text": "Social Model"
+        },
+        {
+            "id": 1002,
+            "text": "Biopsychosocial model"
+        },
+        {
+            "id": 1003,
+            "text": "Economic model"
+        },
+        {
+            "id": 1004,
+            "text": "Functional solutios model"
+        },
+        {
+            "id": 1005,
+            "text": "Social identity or cultural affiliation model"
+        },
+        {
+            "id": 1006,
+            "text": "Charity model"
+        }
+    ],
+    "questions" :[
+        {
+            "category": "Teorethical Model",
+            "question": "While this model may inspire people to donate time or resources to assist those with disabilities, it can often be condescending to those individuals by portraying them as objects of pity.",
+            "alternatives": [
+                1000, 1001, 1002, 1003, 1004, 1005, 1006
+            ],
+            "answer": 1006,
+            "explanation": "",
+            "type": 0
+        },
+        {
+            "category": "Teorethical Model",
+            "question": "Which model is illustrated by a person who is Deaf (capital D) vieweing themselves as gaining from deafness rather than being impaired by it?",
+            "alternatives": [
+                1000, 1001, 1002, 1005
+            ],
+            "answer": 1005,
+            "explanation": "",
+            "type": 0
+        },
+        {
+            "category": "Teorethical Model",
+            "question": "Which model focuses on the ability of the individual to participate in work?",
+            "alternatives": [
+                1000, 1001, 1002, 1005
+            ],
+            "answer": "The Economic model",
+            "explanation": "",
+            "type": 1
+        },
+    ]
+}
+
