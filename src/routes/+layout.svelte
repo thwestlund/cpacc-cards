@@ -8,7 +8,7 @@
         so = !so;
     }
 </script>
-<div class="app bg-slate-900 h-screen p-8">
+<div class="app bg-slate-900 h-full min-h-screen p-8">
     <button id="menu-btn" on:click={handleSidebarToggle} aria-controls="default-sidebar" type="button" class="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600">
         <div class="pointer-events-none">
             <span class="sr-only">Open sidebar</span>

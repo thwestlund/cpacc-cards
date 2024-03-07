@@ -1,7 +1,7 @@
 interface ISidebarElement extends HTMLElement {}
 interface IMenuButtonElement extends HTMLElement {}
 interface IEventTarget extends EventTarget {
-    composedPath(): EventTarget[]; 
-} 
+  composedPath(): EventTarget[];
+}
 
-export type { ISidebarElement, IMenuButtonElement, IEventTarget };
+export type {ISidebarElement, IMenuButtonElement, IEventTarget};
